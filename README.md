@@ -31,9 +31,9 @@
 # 📊 GitHub Stats:
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=faisal99mahmuda&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](nirzak-streak-stats_vercel_default.svg)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=faisal99mahmuda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[image](https://github-readme-stats.vercel.app/api?username=faisal99mahmuda&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+[image](https://streak-stats.demolab.com?user=faisal99mahmuda&theme=dark&hide_border=false)<br/>
+[image](https://github-readme-stats.vercel.app/api/top-langs/?username=faisal99mahmuda&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
